@@ -5,4 +5,4 @@
 2. SGD with Momentum
 3. RMSprop
 
-
+Soon, I will also add implementation of Adam.
